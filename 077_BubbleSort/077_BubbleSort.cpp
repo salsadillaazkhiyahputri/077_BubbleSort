@@ -8,7 +8,4 @@ int n;
 
 void input() {
 	int d;
-	while (true) {
-		cout << 
-	}
 }
